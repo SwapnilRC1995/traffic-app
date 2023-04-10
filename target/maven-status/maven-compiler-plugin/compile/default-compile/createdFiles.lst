@@ -1,0 +1,16 @@
+edu/humber/traffic/repository/UserRepository.class
+edu/humber/traffic/dao/VehicleDAO.class
+edu/humber/traffic/repository/VehicleRepository.class
+edu/humber/traffic/config/ServletInitializer.class
+edu/humber/traffic/controller/ViolationController.class
+edu/humber/traffic/config/TrafficApplication.class
+edu/humber/traffic/dao/UserDAO.class
+edu/humber/traffic/entity/Violation.class
+edu/humber/traffic/entity/Driver.class
+edu/humber/traffic/entity/User.class
+edu/humber/traffic/repository/DriverRepository.class
+edu/humber/traffic/controller/UserController.class
+edu/humber/traffic/entity/Vehicle.class
+edu/humber/traffic/dao/ViolationDAO.class
+edu/humber/traffic/repository/ViolationRepository.class
+edu/humber/traffic/controller/VehicleController.class

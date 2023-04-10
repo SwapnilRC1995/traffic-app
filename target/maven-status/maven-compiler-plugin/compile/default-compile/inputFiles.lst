@@ -1,0 +1,16 @@
+/Users/swapnilroychowdhury/Documents/J2EE Business Components and Enterprise Application Modelling/traffic/src/main/java/edu/humber/traffic/dao/VehicleDAO.java
+/Users/swapnilroychowdhury/Documents/J2EE Business Components and Enterprise Application Modelling/traffic/src/main/java/edu/humber/traffic/config/ServletInitializer.java
+/Users/swapnilroychowdhury/Documents/J2EE Business Components and Enterprise Application Modelling/traffic/src/main/java/edu/humber/traffic/dao/ViolationDAO.java
+/Users/swapnilroychowdhury/Documents/J2EE Business Components and Enterprise Application Modelling/traffic/src/main/java/edu/humber/traffic/controller/ViolationController.java
+/Users/swapnilroychowdhury/Documents/J2EE Business Components and Enterprise Application Modelling/traffic/src/main/java/edu/humber/traffic/controller/UserController.java
+/Users/swapnilroychowdhury/Documents/J2EE Business Components and Enterprise Application Modelling/traffic/src/main/java/edu/humber/traffic/repository/DriverRepository.java
+/Users/swapnilroychowdhury/Documents/J2EE Business Components and Enterprise Application Modelling/traffic/src/main/java/edu/humber/traffic/repository/ViolationRepository.java
+/Users/swapnilroychowdhury/Documents/J2EE Business Components and Enterprise Application Modelling/traffic/src/main/java/edu/humber/traffic/repository/UserRepository.java
+/Users/swapnilroychowdhury/Documents/J2EE Business Components and Enterprise Application Modelling/traffic/src/main/java/edu/humber/traffic/entity/Driver.java
+/Users/swapnilroychowdhury/Documents/J2EE Business Components and Enterprise Application Modelling/traffic/src/main/java/edu/humber/traffic/entity/Vehicle.java
+/Users/swapnilroychowdhury/Documents/J2EE Business Components and Enterprise Application Modelling/traffic/src/main/java/edu/humber/traffic/entity/Violation.java
+/Users/swapnilroychowdhury/Documents/J2EE Business Components and Enterprise Application Modelling/traffic/src/main/java/edu/humber/traffic/repository/VehicleRepository.java
+/Users/swapnilroychowdhury/Documents/J2EE Business Components and Enterprise Application Modelling/traffic/src/main/java/edu/humber/traffic/entity/User.java
+/Users/swapnilroychowdhury/Documents/J2EE Business Components and Enterprise Application Modelling/traffic/src/main/java/edu/humber/traffic/controller/VehicleController.java
+/Users/swapnilroychowdhury/Documents/J2EE Business Components and Enterprise Application Modelling/traffic/src/main/java/edu/humber/traffic/config/TrafficApplication.java
+/Users/swapnilroychowdhury/Documents/J2EE Business Components and Enterprise Application Modelling/traffic/src/main/java/edu/humber/traffic/dao/UserDAO.java
